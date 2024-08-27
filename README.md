@@ -1,1 +1,3 @@
-# Trevor-blessing-PasswordGenerator
+# Password Generator
+
+![Password Generator Screenshot](test.png)
